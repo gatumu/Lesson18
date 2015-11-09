@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="action_settings">mazingira</string>
+    <string name="app_name">somo19</string>
+    <string name="breakfast">kifungua kinywa</string>
+    <string name="dinner">chakula cha jioni</string>
+    <string name="food">chakula</string>
+    <string name="hello_world">Salamu, Dunia</string>
+    <string name="lunch">chakula cha mchana</string>
+
+</resources>
